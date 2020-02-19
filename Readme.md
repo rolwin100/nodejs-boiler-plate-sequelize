@@ -1,6 +1,6 @@
 # Node Boiler Plate for sequelize
  
-API service responsible for the music player application.
+nodejs boilerplate with sequelize for api development
 
 # Technologies:
 
